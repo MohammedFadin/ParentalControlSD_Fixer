@@ -1,0 +1,26 @@
+{
+  "name": "parentalcontrolsd_fixer",
+  "version": "1.0.0",
+  "description": "Automation script, to mitigate ParentalControlSD high CPU usage",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedFadin/ParentalControlSD_Fixer.git"
+  },
+  "keywords": [
+    "parentalcontrolsd",
+    "parental",
+    "controlsd",
+    "mac",
+    "bug"
+  ],
+  "author": "Mohammed Fadin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammedFadin/ParentalControlSD_Fixer/issues"
+  },
+  "homepage": "https://github.com/MohammedFadin/ParentalControlSD_Fixer#readme"
+}
